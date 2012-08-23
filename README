@@ -5,3 +5,6 @@ used with pathogen and vim plugins git submodules setup.
 Some of the schemes do not work in terminal vim or/and need to be further tweaked
 to work properly.
 
+Install with:
+
+git submodule add https://github.com/celavek/vim_colors.git bundle/colorschemes
