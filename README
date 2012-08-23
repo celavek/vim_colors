@@ -1,0 +1,7 @@
+
+This is just a bundle of colorschemes for vim gathered in one location to be
+used with pathogen and vim plugins git submodules setup.
+
+Some of the schemes do not work in terminal vim or/and need to be further tweaked
+to work properly.
+
